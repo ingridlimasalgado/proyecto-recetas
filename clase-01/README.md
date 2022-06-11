@@ -50,3 +50,5 @@
 ### Más específico
     git config --global --get-regexp user (para ver el usuario)
 
+# Tiene que ser en ese orden: add, commit, status
+
