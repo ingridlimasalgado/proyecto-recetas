@@ -24,3 +24,22 @@ Debe haber 1 solo .git  dentro de todo el proyecto
 
 Compara lo que hice en la última foto
     git diff
+
+    (origin/master) aparece cuando pusimos git remote. TIENE QUE APARECER EN LA MISMA LINEA con el head (con git status debe aparecer Your branch is up, sino se pone el push)
+
+    **Ver clase: los status que me podrían aparecer**
+
+Si hice modificaciones que no se guardaron en los commit...
+    git add . 10:33
+
+¿Qué pasa si no guardé acá si ya hice el commit?
+y si agrego un commit se vería irrelevante, qué hago:
+    git commit --amend (con esto arreglo lo que me olvidé)
+
+# Agregar imágenes
+
+    !/[status_archivos](URL){width='200px'g}
+
+Tiene que guardarse hasta acá
+
+
